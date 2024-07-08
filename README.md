@@ -1,5 +1,20 @@
 # Receipt Processor
 
+# Instructions 
+
+Using the assumption that you have Go installed these steps should get you running. 
+* clone the repo
+  ```git@github.com:poberhauser/receipt-processor-challenge.git```
+* cd to the repo
+  ```cd receipt-processor-challenge```
+* switch on over to the submission branch
+* run the code
+  ``` go run .```
+
+Please use your preferred method to test the endpoints. I set it up to use port 8080. 
+
+#
+
 Build a webservice that fulfils the documented API. The API is described below. A formal definition is provided 
 in the [api.yml](./api.yml) file, but the information in this README is sufficient for completion of this challenge. We will use the 
 described API to test your solution.
